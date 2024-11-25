@@ -31,8 +31,9 @@ INSERT INTO tagok (nev, szul, csatlakozaseve, cegid)
 VALUES
 ('Tamás Evelin', '1946-12-01', '2012-01-01', 3),
 ('Tamás Evelin', '1946-12-01', '1990-01-01', 2),
-('Bálint Olívia', '1980-06-18', '1990-01-01', 2),
-('Juhász András', '1981-09-27', '2019-01-01', 1),
-('Kozma Ottó', '1990-01-30', '2020-01-01', 1);
+('Tamás Evelin', '1946-12-01', '1990-01-01', 1),
+('Bálint Olívia', '1980-06-18', '1990-01-01', 1),
+('Juhász András', '1981-09-27', '2019-01-01', 3),
+('Kozma Ottó', '1990-01-30', '2020-01-01', 3);
 
 SELECT * FROM adatbazis;
